@@ -1,0 +1,7 @@
+data/
+*.twbx
+*.hyper
+*.tde
+*.log
+Thumbs.db
+.DS_Store
