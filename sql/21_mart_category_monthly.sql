@@ -1,4 +1,4 @@
--- sql/20_mart_kpi_monthly.sql
+-- sql/21_mart_category_monthly.sql
 -- Monthly mart category for visualisation (Tableau/Excel) and analysis (Python)
 
 
