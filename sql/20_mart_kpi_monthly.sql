@@ -1,5 +1,5 @@
 -- sql/20_mart_kpi_monthly.sql
--- KPI marts for visualisation (Tableau/Excel) and analysis (Python)
+-- Monthly KPI marts for visualisation (Tableau/Excel) and analysis (Python)
 
 
 CREATE OR REPLACE VIEW analytics.mart_kpi_monthly AS
