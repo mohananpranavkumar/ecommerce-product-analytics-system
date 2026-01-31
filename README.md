@@ -49,3 +49,17 @@ customers/sellers ── geo via zip_prefix (optional)
 3) Tableau dashboards read KPI marts  
 4) Excel management pack reads KPI marts (exported)  
 5) Python notebooks: QA + deeper analysis (+ optional forecast tables later)
+
+## Tableau Public (Live Story Link)
+[E-commerce Product Analytics — MVP (Tableau Public Story)](https://public.tableau.com/app/profile/pranav.kumar7388/viz/E-commerceProductAnalyticsMVP/ecommerce_analytics)
+
+## Dashboards (Screenshots)
+
+### Exec Overview
+![Exec Overview](bi/screenshots/bi_screenshots_01_exec_overview.png)
+
+### Diagnostics
+![Diagnostics](bi/screenshots/bi_screenshots_02_diagnostics.png)
+
+### Cohorts
+![Cohorts](bi/screenshots/bi_screenshots_03_cohorts.png)
